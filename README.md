@@ -1,0 +1,1 @@
+These are the files used for Cumberland Valley Science Olympiad's Robot Tour event. The code runs on an Arduino mounted on the robot. It uses encoders to track its position and communicates with an MPU6050 gyroscope over I2C to track its heading. Ultimately, this code got us 2nd place at the PASO State Finals!
